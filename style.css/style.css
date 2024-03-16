@@ -1,0 +1,14 @@
+.part1 img{width: 700%;
+height: 80vh;}
+.link1{text-align: left;}
+.part2{margin-top: 2rem;
+border-bottom: 1px solid rgb(216, 214, 214);}
+.shape{width: 200px;
+height: 200px;
+background-color: rgba(33, 37, 41, 0.75);
+border-radius: 50%;}
+.shape span{color: rgb(33, 37, 41,0.1);}
+.team{margin-top: 5rem;}
+.text{margin-top: 8rem;}
+.section1{border-bottom: 1px solid rgb(187, 183, 183);}
+div{padding: 3rem;}
